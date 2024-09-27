@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa; /* Светлый фон */
+    color: #343a40; /* Темный текст */
+    margin: 0;
+}
+
+.profile-photo {
+    border: 3px solid #343a40; /* Обводка фото */
+}
+
+footer {
+    background-color: #333; /* Цвет фона для футера */
+}
